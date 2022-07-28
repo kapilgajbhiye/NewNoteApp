@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/PRO/AndroidStudioProjects/MyNewNoteApp/app/src/main/res/layout/activity_main.xml" value="0.2441123188405797" />
+        <entry key="..\:/Users/PRO/AndroidStudioProjects/MyNewNoteApp/app/src/main/res/layout/drawer_header.xml" value="0.2441123188405797" />
+        <entry key="..\:/Users/PRO/AndroidStudioProjects/MyNewNoteApp/app/src/main/res/layout/fragment_add_note.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/PRO/AndroidStudioProjects/MyNewNoteApp/app/src/main/res/layout/fragment_dialog_profile.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/PRO/AndroidStudioProjects/MyNewNoteApp/app/src/main/res/layout/fragment_home.xml" value="0.2441123188405797" />
+        <entry key="..\:/Users/PRO/AndroidStudioProjects/MyNewNoteApp/app/src/main/res/layout/fragment_login.xml" value="0.2441123188405797" />
+        <entry key="..\:/Users/PRO/AndroidStudioProjects/MyNewNoteApp/app/src/main/res/layout/fragment_registration.xml" value="0.2441123188405797" />
+        <entry key="..\:/Users/PRO/AndroidStudioProjects/MyNewNoteApp/app/src/main/res/layout/fragment_reminder.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/PRO/AndroidStudioProjects/MyNewNoteApp/app/src/main/res/layout/fragment_update_note.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/PRO/AndroidStudioProjects/MyNewNoteApp/app/src/main/res/layout/note_list.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/PRO/AndroidStudioProjects/MyNewNoteApp/app/src/main/res/menu/drawer_menu.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/PRO/AndroidStudioProjects/MyNewNoteApp/app/src/main/res/menu/mymenu.xml" value="0.580078125" />
+        <entry key="..\:/Users/PRO/AndroidStudioProjects/MyNewNoteApp/app/src/main/res/menu/navigation_menu.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/PRO/AndroidStudioProjects/MyNewNoteApp/app/src/main/res/menu/nevigation_menu.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/PRO/AndroidStudioProjects/MyNewNoteApp/app/src/main/res/menu/option_menu.xml" value="0.25" />
+        <entry key="..\:/Users/PRO/AndroidStudioProjects/MyNewNoteApp/app/src/main/res/menu/popup_menu.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/PRO/AndroidStudioProjects/MyNewNoteApp/app/src/main/res/menu/toolbar_menu.xml" value="0.25104166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
